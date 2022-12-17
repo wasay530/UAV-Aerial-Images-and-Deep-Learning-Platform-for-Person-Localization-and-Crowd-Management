@@ -11,7 +11,18 @@ recognition, and performance comparison of different detection and recognition a
 
 ## Proposed Platform for Person Localization and Crowd Sourcing
 <p align="center">
-<img src = "https://github.com/wasay530/-KAU-COVID19-AR-Dataset/blob/acd6c0007e57067e594fd107eac76d515b4ab8ad/mobile_position.png" title= "Dataset (KAU-COVID19-AR-Dataset):each activity" width="800" height="400" alt>
+<img src = "https://github.com/wasay530/UAV-Aerial-Images-and-Deep-Learning-Platform-for-Person-Localization-and-Crowd-Management/blob/6dfa0b6e17a358774832b734cbcf185bf1354680/block_diagram.png" title= "Proposed Architecture of Deep Learning Platform for Person Localization and Crowd Management in UAV Aerial Images" width="700" height="300" alt>
+</p>
+<p align="center">
+  <em>Fig. 1: Proposed Architecture of Deep Learning Platform for Person Localization and Crowd Management in UAV Aerial Images</em>  
+</p>
+
+<p align="center">
+<img src = "https://github.com/wasay530/UAV-Aerial-Images-and-Deep-Learning-Platform-for-Person-Localization-and-Crowd-Management/blob/6dfa0b6e17a358774832b734cbcf185bf1354680/gui.png" title= "GUI (Graphic User Interface) of Person Localization and Crowd Sourcing in Aerial Images" width="700" height="300" alt>
+</p>
+</p>
+<p align="center">
+  <em>Fig. 2: GUI (Graphic User Interface) of Person Localization and Crowd Sourcing in Aerial Images</em>  
 </p>
 
 #### Results ####
@@ -20,3 +31,19 @@ Algorithms                 | No of Person (Detected)
 Haar Cascade               | 1530
 You Only Look Once (YOLO)  | 2524
 Mask RCNN Algorithm        | 2495
+
+<p align="center">
+<img src = "https://github.com/wasay530/UAV-Aerial-Images-and-Deep-Learning-Platform-for-Person-Localization-and-Crowd-Management/blob/6dfa0b6e17a358774832b734cbcf185bf1354680/Results%20(1).PNG" title= "Results of Person Detection and Crowd Sourcing" width="700" height="350" alt>
+</p>
+</p>
+<p align="center">
+  <em>Fig. 3: Results of Person Detection and Crowd Sourcing</em>  
+</p>
+
+<p align="center">
+<img src = "https://github.com/wasay530/UAV-Aerial-Images-and-Deep-Learning-Platform-for-Person-Localization-and-Crowd-Management/blob/6dfa0b6e17a358774832b734cbcf185bf1354680/combine_person_localization_crowd_sourcing%202%20(1).PNG" title= "Graph of actual persons, and haar-cascade, YOLO, mask RCNN algorithm detected persons" width="700" height="350" alt>
+</p>
+</p>
+<p align="center">
+  <em>Fig. 4: Graph of actual persons, and haar-cascade, YOLO, mask RCNN algorithm detected persons</em>  
+</p>
